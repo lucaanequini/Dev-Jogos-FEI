@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 74c210ec786219248a9c229bcf25d88a
+guid: 5c7f67deec1790e44a082bc9f5cd66d3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3919779002189068522
-    second: Ball_0
+      213: -2162314215514398911
+    second: depositphotos_113436504-stock-illustration-blue-table-air-hockey-with_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Ball_0
+      name: depositphotos_113436504-stock-illustration-blue-table-air-hockey-with_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 74
-        height: 74
+        width: 719
+        height: 1023
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -114,8 +114,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6174c70f3c52a99c0800000000000000
-      internalID: -3919779002189068522
+      spriteID: 14f9c7b6daaedf1e0800000000000000
+      internalID: -2162314215514398911
       vertices: []
       indices: 
       edges: []
@@ -130,8 +130,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      Ball_0: -3919779002189068522
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
